@@ -5,4 +5,4 @@ O objetivo era estilizar a página HTML com as folhas de estilo CSS, seguindo o 
 [Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) 
 
 Realizei o desafio com muita dedicação e comprometimento para que o resultado ficasse o mais fiel possível ao design inicial.
-Para visualizar a página estilizada por mim [Clique aqui]([https://micheleambrosio.github.io/dio-trilha-css-desafio-01/](https://bryansilvacm.github.io/trilha-css-desafio-01/)) 
+Para visualizar a página estilizada por mim [Clique aqui]([https://micheleambrosio.github.io/dio-trilha-css-desafio-01/]) 
